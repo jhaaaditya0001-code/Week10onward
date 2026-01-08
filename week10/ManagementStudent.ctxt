@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ManagementStudent
+comment1.params=rollNo\ name\ marks
+comment1.target=ManagementStudent(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ calculateResult()
+comment3.params=graceMarks
+comment3.target=java.lang.String\ calculateResult(int)
+numComments=4
