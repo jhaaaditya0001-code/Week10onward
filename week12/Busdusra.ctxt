@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Busdusra
+comment1.params=numberPlate\ color\ route\ customerName\ availableStatus\ rate
+comment1.target=Busdusra(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=
+comment3.target=int\ getRate()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
