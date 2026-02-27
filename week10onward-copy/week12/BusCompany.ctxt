@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BusCompany
+comment1.params=
+comment1.target=BusCompany()
+comment2.params=bus
+comment2.target=void\ addBus(Bus)
+comment3.params=index
+comment3.target=void\ removeBus(int)
+comment4.params=
+comment4.target=void\ displayBuses()
+numComments=5

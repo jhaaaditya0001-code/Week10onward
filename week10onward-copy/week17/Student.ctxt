@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=studentId\ name\ course
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFormattedDetails()
+numComments=3

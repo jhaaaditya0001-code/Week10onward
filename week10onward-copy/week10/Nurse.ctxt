@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Nurse
+comment1.params=id\ name\ baseSalary\ shift\ extraAllowance
+comment1.target=Nurse(int,\ java.lang.String,\ double,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculateSalary()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

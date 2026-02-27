@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=busName\ busType
+comment1.target=Bus(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getBusName()
+comment3.params=
+comment3.target=java.lang.String\ getBusType()
+comment4.params=busName
+comment4.target=void\ setBusName(java.lang.String)
+comment5.params=busType
+comment5.target=void\ setBusType(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bike
+comment1.params=vehicleId\ brand\ basePrice\ engineCapacity
+comment1.target=Bike(int,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=double\ calculateFinalPrice()
+numComments=3

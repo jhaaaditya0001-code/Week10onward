@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Transportable
+comment1.params=
+comment1.target=double\ calculateTransportCost()
+comment2.params=
+comment2.target=java.lang.String\ getTransportMethod()
+numComments=3

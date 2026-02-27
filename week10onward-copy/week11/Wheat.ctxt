@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wheat
+comment1.params=landArea\ yieldPerHectare\ waterPerHectare
+comment1.target=Wheat(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calculateYield()
+comment3.params=
+comment3.target=double\ calculateWaterRequirement()
+comment4.params=
+comment4.target=double\ calculateTransportCost()
+comment5.params=
+comment5.target=java.lang.String\ getTransportMethod()
+numComments=6
