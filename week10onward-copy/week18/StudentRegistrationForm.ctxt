@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StudentRegistrationForm
+comment1.params=id\ name\ gender\ skill\ course
+comment1.target=Student(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=StudentRegistrationForm()
+comment11.params=r\ c
+comment11.target=boolean\ isCellEditable(int,\ int)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getGender()
+comment5.params=
+comment5.target=java.lang.String\ getSkill()
+comment6.params=
+comment6.target=java.lang.String\ getCourse()
+comment7.params=s
+comment7.target=void\ addStudent(Student)
+comment8.params=id
+comment8.target=void\ deleteStudent(int)
+comment9.params=
+comment9.target=java.lang.Object[][]\ viewStudents()
+numComments=13

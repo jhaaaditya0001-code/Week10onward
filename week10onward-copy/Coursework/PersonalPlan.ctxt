@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PersonalPlan
+comment1.params=model_identity\ unit_rate\ param_total\ window_size_label\ usage_balance\ fixed_system_cost
+comment1.target=PersonalPlan(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment2.params=input_size\ output_size
+comment2.target=boolean\ verify_usage_capacity(int,\ int)
+comment3.params=extra_amount
+comment3.target=void\ top_up_balance(int)
+comment4.params=query_text\ length_target
+comment4.target=void\ execute_user_query(java.lang.String,\ int)
+numComments=5

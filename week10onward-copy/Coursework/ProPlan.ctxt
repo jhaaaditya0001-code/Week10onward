@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProPlan
+comment1.params=model_identity\ unit_rate\ param_total\ window_size_label\ max_group_size
+comment1.target=ProPlan(java.lang.String,\ double,\ int,\ int,\ int)
+comment2.params=user_handle
+comment2.target=void\ enroll_new_user(java.lang.String)
+comment3.params=user_handle
+comment3.target=void\ terminate_user_access(java.lang.String)
+comment4.params=query_text
+comment4.target=void\ execute_user_query(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

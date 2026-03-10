@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AIModel
+comment1.params=model_identity\ unit_rate\ param_total\ window_size_label
+comment1.target=AIModel(java.lang.String,\ double,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ get_model_identity()
+comment3.params=
+comment3.target=double\ get_rate_value()
+comment4.params=
+comment4.target=int\ get_param_total()
+comment5.params=
+comment5.target=int\ get_window_details()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
